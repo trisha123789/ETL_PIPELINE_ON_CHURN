@@ -1,5 +1,5 @@
 
-#ETL Pipeline on Customer Churn Data
+<h1>ETL Pipeline on Customer Churn Data</h1>
 
 This project demonstrates a complete ETL (Extract–Transform–Load) pipeline built on a customer Churn dataset, showcasing real-world data engineering and data preprocessing skills. The pipeline cleans the data, transforms it into an analysis-ready format, and loads it into a cloud database using Supabase.
 
